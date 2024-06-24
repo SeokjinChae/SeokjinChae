@@ -1,5 +1,5 @@
 ## 👋🏽 About Me
-- 🙇🏽‍♂️ 안녕하세요, 채석진입니다!
+- 🙇🏽‍♂️ Hello, I'm Seokjin!
 - [![Static Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/bebdedce4fe14a48a8d053565956f529)
 
 ## 🛠️ Stacks
